@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518661556484",
+    "project_id": "smart-society-474a4",
+    "storage_bucket": "smart-society-474a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518661556484:android:db73ac57df4c9cc96da851",
+        "android_client_info": {
+          "package_name": "com.utkarsh.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518661556484-vbcmarjk3ea1h23ifsv0obun655gmd6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7TBsAmUVhq_8dJwvjPQXTpP2OsLZW7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518661556484-vbcmarjk3ea1h23ifsv0obun655gmd6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
